@@ -1,0 +1,7 @@
+entidade\Endereco.class
+restful\UsuarioRestController.class
+controller\EnderecoController.class
+controller\UsuarioController.class
+dao\EnderecoDAO.class
+dao\UsuarioDAO.class
+entidade\Usuario.class
